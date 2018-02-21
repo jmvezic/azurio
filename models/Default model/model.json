@@ -1,0 +1,1 @@
+{"types": {"Unique": {"label": "Unique", "mandatory": "id,type,Title,", "name": "Unique", "optional": ""}}, "fields": {"type": {"label": "Type", "transform": "str", "name": "type", "ismany": false}, "id": {"label": "ID", "transform": "int", "name": "id", "ismany": false}, "Title": {"label": "Title", "transform": "str", "name": "Title", "ismany": false}}}
